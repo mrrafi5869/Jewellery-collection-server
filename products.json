@@ -1,0 +1,167 @@
+[
+    {
+        "name": "Silver Gem Ring",
+        "img": "https://cdn11.bigcommerce.com/s-oj6hes22/images/stencil/500x500/products/74/539/12__08050.1544244351.jpg?c=2",
+        "type": "Ring",
+        "Weight": "1.30 LBS",
+        "Shipping": 10,
+        "color": "Silver",
+        "Price": 20
+    },
+    {
+        "name": "Diamond Ring",
+        "img": "https://cdn11.bigcommerce.com/s-oj6hes22/images/stencil/500x500/products/70/556/7__89477.1544244582.jpg?c=2",
+        "type": "Ring",
+        "Weight": "1.60 LBS",
+        "Shipping": 20,
+        "color": "Silver",
+        "Price": 300
+    },
+    {
+        "name": "Gold Ring",
+        "img": "https://cdn11.bigcommerce.com/s-oj6hes22/images/stencil/500x500/products/59/580/13__31658.1544244826.jpg?c=2https://img.freepik.com/free-photo/closeup-shot-golden-ring-isolated-white-background_181624-31331.jpg?size=626&ext=jpg&uid=R63160567&ga=GA1.2.207808977.1658386615&semt=ais",
+        "type": "Ring",
+        "Weight": "1.10 LBS",
+        "Shipping": 15,
+        "color": "Golden",
+        "Price": 250
+    },
+    {
+        "name": "Diamond Ring",
+        "img": "https://img.freepik.com/free-vector/beautiful-wedding-rings-realistic-illustration-setset_52683-64711.jpg?size=626&ext=jpg&uid=R63160567&ga=GA1.2.207808977.1658386615&semt=ais",
+        "type": "Ring",
+        "Weight": "1.40 LBS",
+        "Shipping": 20,
+        "color": "Silver",
+        "Price": 270
+    },
+    {
+        "name": "White Gold Ring",
+        "img": "https://cdn11.bigcommerce.com/s-oj6hes22/images/stencil/500x500/products/59/580/13__31658.1544244826.jpg?c=2",
+        "type": "Ring",
+        "Weight": "1.50 LBS",
+        "Shipping": 10,
+        "color": "White",
+        "Price": 200
+    },
+    {
+        "name": "Platinum Ring",
+        "img": "https://img.freepik.com/free-photo/closeup-shot-two-diamond-rings-white-surface_181624-47070.jpg?size=626&ext=jpg&uid=R63160567&ga=GA1.2.207808977.1658386615&semt=ais",
+        "type": "Ring",
+        "Weight": "1.30 LBS",
+        "Shipping": 30,
+        "color": "Silver",
+        "Price": 300
+    },
+
+
+    {
+        "name": "White Gold Necklace",
+        "img": "https://img.freepik.com/free-photo/jewellery-bangle-background-with-place-text-banner-fashion-accessories_460848-13231.jpg?size=626&ext=jpg&uid=R63160567&ga=GA1.1.207808977.1658386615&semt=ais",
+        "type": "Necklace",
+        "Weight": "1.50 LBS",
+        "Shipping": 10,
+        "color": "White",
+        "Price": 200
+    },
+    {
+        "name": "Rose Gold Necklace",
+        "img": "https://img.freepik.com/free-photo/frame-made-paper-flower_23-2148274675.jpg?size=626&ext=jpg&uid=R63160567&ga=GA1.1.207808977.1658386615&semt=ais",
+        "type": "Necklace",
+        "Weight": "5.30 LBS",
+        "Shipping": 40,
+        "color": "Silver",
+        "Price": 300
+    },
+    {
+        "name": "Gold Necklace",
+        "img": "https://img.freepik.com/free-vector/golden-jewelry-chains-set_1284-11761.jpg?size=626&ext=jpg&uid=R63160567&ga=GA1.1.207808977.1658386615&semt=ais",
+        "type": "Necklace",
+        "Weight": "5.50 LBS",
+        "Shipping": 20,
+        "color": "White",
+        "Price": 200
+    },
+    {
+        "name": "Platinum Necklace",
+        "img": "https://img.freepik.com/free-photo/silver-aesthetic-wallpaper-with-chain_23-2149871722.jpg?size=626&ext=jpg&uid=R63160567&ga=GA1.1.207808977.1658386615&semt=ais",
+        "type": "Necklace",
+        "Weight": "5.30 LBS",
+        "Shipping": 40,
+        "color": "Silver",
+        "Price": 300
+    },
+    {
+        "name": "Silver Necklace",
+        "img": "https://img.freepik.com/free-photo/wedding-still-life-with-glasses_23-2147975973.jpg?size=626&ext=jpg&uid=R63160567&ga=GA1.1.207808977.1658386615&semt=ais",
+        "type": "Necklace",
+        "Weight": "5.50 LBS",
+        "Shipping": 20,
+        "color": "White",
+        "Price": 200
+    },
+    {
+        "name": "Heart Necklace",
+        "img": "https://img.freepik.com/free-photo/baubles-garlands-arrangement_1220-1902.jpg?size=626&ext=jpg&uid=R63160567&ga=GA1.1.207808977.1658386615&semt=ais",
+        "type": "Necklace",
+        "Weight": "5.30 LBS",
+        "Shipping": 40,
+        "color": "Silver",
+        "Price": 300
+    },
+
+    {
+        "name": "White Gold Earings",
+        "img": "https://img.freepik.com/free-photo/silver-aesthetic-wallpaper-with-earrings_23-2149871684.jpg?size=626&ext=jpg&uid=R63160567&ga=GA1.1.207808977.1658386615&semt=ais",
+        "type": "Earings",
+        "Weight": "1.50 LBS",
+        "Shipping": 10,
+        "color": "White",
+        "Price": 200
+    },
+    {
+        "name": "Stud Earings",
+        "img": "https://img.freepik.com/free-photo/gold-christmas-balls-isolated_155003-2368.jpg?size=626&ext=jpg&uid=R63160567&ga=GA1.1.207808977.1658386615&semt=ais",
+        "type": "Earings",
+        "Weight": "5.30 LBS",
+        "Shipping": 40,
+        "color": "Silver",
+        "Price": 300
+    },
+    {
+        "name": "Hoop Earings",
+        "img": "https://img.freepik.com/free-photo/holes-plugs-wall_23-2147743110.jpg?size=626&ext=jpg&uid=R63160567&ga=GA1.1.207808977.1658386615&semt=ais",
+        "type": "Earings",
+        "Weight": "5.50 LBS",
+        "Shipping": 20,
+        "color": "White",
+        "Price": 200
+    },
+    {
+        "name": "Kashmiri Earings",
+        "img": "https://img.freepik.com/free-photo/wooden-snowflake-ornaments-white-backdrop_23-2147928451.jpg?size=626&ext=jpg&uid=R63160567&ga=GA1.1.207808977.1658386615&semt=ais",
+        "type": "Earings",
+        "Weight": "5.30 LBS",
+        "Shipping": 40,
+        "color": "Silver",
+        "Price": 300
+    },
+    {
+        "name": "Gold Earings",
+        "img": "https://img.freepik.com/free-photo/top-view-collection-halloween-elements_23-2148614357.jpg?size=626&ext=jpg&uid=R63160567&ga=GA1.1.207808977.1658386615&semt=ais",
+        "type": "Earings",
+        "Weight": "5.50 LBS",
+        "Shipping": 20,
+        "color": "Golden",
+        "Price": 200
+    },
+    {
+        "name": "Heart Earings",
+        "img": "https://img.freepik.com/free-photo/jewelry-box_1339-395.jpg?size=626&ext=jpg&uid=R63160567&ga=GA1.1.207808977.1658386615&semt=ais",
+        "type": "Earings",
+        "Weight": "5.30 LBS",
+        "Shipping": 40,
+        "color": "Silver",
+        "Price": 300
+    }
+]
