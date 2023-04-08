@@ -12,7 +12,13 @@ app.get('/', (req, res) => {
 })
 
 app.get('/products', (req, res) => {
-    res.send(products)
+    res.send(products);
+})
+
+app.get("/products/:id", (req, res) => {
+    const id = req.params.id;
+    const category_products = products.filter(product => product.type === id);
+    res.send(category_products);
 })
 
 app.listen(port, () => {
